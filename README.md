@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lord-Evilus
-- 👀 I’m interested in game development, cyber security and AI
+- 👀 I’m interested in something creative
 - 🌱 I’m currently learning the c programming language
 - 📫 How to reach me ...
 
